@@ -148,7 +148,9 @@
     "zhuangtongfa.material-theme",
     "ziyasal.vscode-open-in-github"
   ],
-  "main": "index.js",
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {
+    "ovsx": "^0.5.1",
+    "vsce": "^1.103.1"
+  }
 }
